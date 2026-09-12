@@ -136,3 +136,22 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.inline-logo {
+  font-size: 16px;
+  vertical-align: -1px;
+  color: #333;
+}
+
+span.term {
+  font-size: 12px;
+  color: #888;
+}
+
+tr.extra-pub {
+  display: none;
+}
+
+body.show-all-pubs tr.extra-pub {
+  display: table-row;
+}
